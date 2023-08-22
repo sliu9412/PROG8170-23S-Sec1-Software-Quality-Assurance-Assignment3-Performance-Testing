@@ -16,7 +16,7 @@ For this assignment, we are going to research into a popular System/Performance 
 
 ## Project For Testing (PHP)
 
-[prog8170a03 - section 01.zip](./doc/prog8170a03 - section 01.zip)
+[prog8170a03.zip](./doc/prog8170a03.zip)
 
 ## JMeter Project File
 
